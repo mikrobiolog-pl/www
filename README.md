@@ -1,6 +1,33 @@
 # [mikrobiolog.pl - Twój przewodnik po świecie mikrobiologii](http://www.mikrobiolog.pl)
 
-## Temat
+
+## Mikrobiolog
+
+Mikrobiolog to osoba, która bada najmniejsze żywe organizmy, których nie możemy zobaczyć gołym okiem. 
+Te organizmy to na przykład bakterie, wirusy i niektóre małe grzyby.
+Aby zostać mikrobiologiem, trzeba dużo się uczyć o biologii. 
+Mikrobiologia to tylko część tej nauki, ale bardzo ważna. Dzięki takiemu wykształceniu mikrobiolog może też na przykład uczyć biologii w szkole.
+
+
+## Gdzie pracują?
+
+Mikrobiologowie pracują w różnych miejscach:
++ Na uczelniach - gdzie uczą studentów lub prowadzą badania naukowe.
++ W firmach prywatnych - tu jest najwięcej pracy dla mikrobiologów.
+
+## Co robią mikrobiolodzy?
+
++ Badają nowe produkty, na przykład leki lub kosmetyki.
++ Sprawdzają, czy w produktach nie ma szkodliwych bakterii lub innych mikroorganizmów.
++ Dbają o czystość w miejscach, gdzie produkuje się leki lub kosmetyki.
+
+Ta praca jest bardzo ważna, bo dzięki niej produkty, których używamy, są bezpieczne. 
+Firmy muszą często sprawdzać swoje wyroby, żeby mieć pewność, że nie ma w nich niczego szkodliwego.
+Praca mikrobiologa jest ciekawa i różnorodna. Każdego dnia mogą pojawić się nowe wyzwania i problemy do rozwiązania.
+To dobry zawód dla osób, które lubią biologię i chcą pomagać w tworzeniu bezpiecznych produktów dla ludzi.
+
+
+## Tematy
 
 ### 1. Aktualności ze świata mikrobiologii
 
